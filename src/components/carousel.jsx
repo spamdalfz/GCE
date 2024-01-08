@@ -3,10 +3,20 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "../App.css";
 import sprite from "../sprite.svg";
 
+/*
+To ADD images to carousel, simply add image to 
+/public/img/portfolio 
+and add url to images array below.
+ */
+
 const images = [
-  "https://res.cloudinary.com/ifeomaimoh/image/upload/v1652345767/demo_image2.jpg",
-  "https://res.cloudinary.com/ifeomaimoh/image/upload/v1652366604/demo_image5.jpg",
-  "https://res.cloudinary.com/ifeomaimoh/image/upload/v1652345874/demo_image1.jpg",
+  "/img/portfolio/01-large.jpg",
+  "/img/portfolio/02-large.jpg",
+  "/img/portfolio/02-small.jpg",
+  "/img/portfolio/03-small.jpg",
+  "/img/portfolio/04-large.jpg",
+  "/img/portfolio/05-large.jpg",
+
 ];
 
 function CarouselBox() {

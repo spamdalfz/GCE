@@ -10,12 +10,13 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
       <div className="demo-carousel">
-        <CarouselBox>
-
-        </CarouselBox>
+       
       </div>
         <div className="section-title">
           <h2>Projects</h2>
+          <CarouselBox>
+
+          </CarouselBox>
           <h3>
             Commercial/Industrial Tenant Finishes & Remodels
           </h3>
