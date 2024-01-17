@@ -10,12 +10,30 @@ and add url to images array below.
  */
 
 const images = [
-  "/img/portfolio/01-large.jpg",
-  "/img/portfolio/02-large.jpg",
-  "/img/portfolio/02-small.jpg",
-  "/img/portfolio/03-small.jpg",
-  "/img/portfolio/04-large.jpg",
-  "/img/portfolio/05-large.jpg",
+  "/img/portfolio/affordable_dentures/IMG_6389.jpg",
+  "/img/portfolio/associates_in_dental/AD-Progress.jpg",
+  "/img/portfolio/beauty_bar/IMG_6984.jpg",
+  "/img/portfolio/beauty_bar/IMG_6985.jpg",
+  "/img/portfolio/big_r/IMG_20170317_094745.jpg",
+  "/img/portfolio/big_r/IMG_20170317_094820.jpg",
+  "/img/portfolio/boot_barn/IMG_6468.jpg",
+  "/img/portfolio/boot_barn/IMG_6463.jpg",
+  "/img/portfolio/boot_barn/IMG_6459.jpg",
+  "/img/portfolio/cav_west/IMG_6421.jpg",
+  "/img/portfolio/cav_west/IMG_6434.jpg",
+  "/img/portfolio/cav_west/IMG_6424.jpg",
+  "/img/portfolio/cav_west/IMG_6427.jpg",
+  "/img/portfolio/dollar_tree_aurora/IMG_6414.jpg",
+  "/img/portfolio/dollar_tree_aurora/IMG_6415.jpg",
+  "/img/portfolio/dollar_tree_colorado_springs/DT-3.jpg",
+  "/img/portfolio/dollar_tree_colorado_springs/DT-4.jpg",
+  "/img/portfolio/dollar_tree_mesa_ridge/IMG_6980.jpg",
+  "/img/portfolio/ent/ENT-Exterior_-2.jpg",
+  "/img/portfolio/ent/ENT-Exterior_-3.jpg",
+  "/img/portfolio/get_clipped/IMG_7256.jpg",
+  "/img/portfolio/harris_beam/20161111_104441.jpg",
+  
+
 
 ];
 
