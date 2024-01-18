@@ -5,16 +5,17 @@
   "About": {
     "paragraph": "GrayC Electric is a family-owned electrical contracting firm rooted in Colorado Springs, CO. Established in 2014 by Jack Hollesen and Luke Hanson, GrayC Electric has flourished into a company boasting over 35 dedicated employees and an annual sales revenue exceeding $4.5 million. At GrayC Electric, our foundation lies in prioritizing unparalleled customer service and fostering strong client relationships. Setting ourselves apart from competitors, we consistently exceed expectations by delivering exceptional service and going the extra mile for all our customers. Our team comprises motivated individuals who benefit from robust team management, all geared toward the primary objective of completing every project on schedule, within budget, and showcasing unmistakable quality in our work.",
     "Why": [
-      "Systems Electric, Inc. was founded on the idea that customer service and the relationships with those customers are the utmost priority.",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Systems Electric, Inc. was founded on the idea that customer service and the relationships with those customers are the utmost priority."
+
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Tailored Solutions: We provide customized electrical solutions for your needs, ensuring efficiency and sustainability.",
+
+      "Experienced Team: Our seasoned team brings expertise and a proven track record of successful projects.",
+      
+      "Safety First: We prioritize safety with rigorous protocols, creating a secure working environment.",
+      
+      "Clear Communication: Experience open and transparent communication throughout your project journey."
     ]
   },
   "Gallery": [
@@ -133,21 +134,6 @@
       "img": "img/team/jack.jpeg",
       "name": "Jack Hollesen",
       "job": "Master Electrician, CEO"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
     }
   ],
   "Contact": {
