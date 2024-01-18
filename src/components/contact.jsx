@@ -123,6 +123,7 @@ export const Contact = (props) => {
           </div>
           <div className="col-md-12">
             <div className="row">
+              {/*
               <div className="social">
                 <ul>
                   <li>
@@ -142,6 +143,7 @@ export const Contact = (props) => {
                   </li>
                 </ul>
               </div>
+              */}
             </div>
           </div>
         </div>
