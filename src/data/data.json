@@ -5,16 +5,17 @@
   "About": {
     "paragraph": "GrayC Electric is a family-owned electrical contracting firm rooted in Colorado Springs, CO. Established in 2014 by Jack Hollesen and Luke Hanson, GrayC Electric has flourished into a company boasting over 35 dedicated employees and an annual sales revenue exceeding $4.5 million. At GrayC Electric, our foundation lies in prioritizing unparalleled customer service and fostering strong client relationships. Setting ourselves apart from competitors, we consistently exceed expectations by delivering exceptional service and going the extra mile for all our customers. Our team comprises motivated individuals who benefit from robust team management, all geared toward the primary objective of completing every project on schedule, within budget, and showcasing unmistakable quality in our work.",
     "Why": [
-      "Systems Electric, Inc. was founded on the idea that customer service and the relationships with those customers are the utmost priority.",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Systems Electric, Inc. was founded on the idea that customer service and the relationships with those customers are the utmost priority."
+
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Tailored Solutions: We provide customized electrical solutions for your needs, ensuring efficiency and sustainability.",
+
+      "Experienced Team: Our seasoned team brings expertise and a proven track record of successful projects.",
+      
+      "Safety First: We prioritize safety with rigorous protocols, creating a secure working environment.",
+      
+      "Clear Communication: Experience open and transparent communication throughout your project journey."
     ]
   },
   "Gallery": [
@@ -32,36 +33,6 @@
       "title": "Beauty Bar - Colorado Springs",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
@@ -98,56 +69,17 @@
   ],
   "Testimonials": [
     {
-      "img": "",
+      "img": "img/testimonials/noimage.jpg",
       "text": "\"It was to our incredible fortune that we connected with Jack Hollesen, owner of GrayC Electric, via a recommendation of a friend that I trust implicitly. We knew from the moment we met Jack that we had been graced with a gift. This man and his know~how, combined with his integrity, provided us with a solution for our electric vehicle charging, together with a complete garage wiring upgrade. All completed at a cost that we know was generous to us. The final outcome is unsurpassed and beautiful. We've never seen anything like the actual products he used. They were just beautiful and done with absolute focus and care. We know that GrayC Electric is focused primarily on commercial buildings, but my hope is that Jack will expand his vast knowledge and skills to assist the residential demographic that we know will flock to his integrity and wisdom (he is literally a Master Electrician by every facet conceivable). Thank YOU Jack for Being You.",
       "name": "Carmel and Andrew"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
     }
+    
   ],
   "Team": [
     {
       "img": "img/team/jack.jpeg",
       "name": "Jack Hollesen",
       "job": "Master Electrician, CEO"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
     }
   ],
   "Contact": {

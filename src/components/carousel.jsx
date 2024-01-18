@@ -32,7 +32,32 @@ const images = [
   "/img/portfolio/ent/ENT-Exterior_-3.jpg",
   "/img/portfolio/get_clipped/IMG_7256.jpg",
   "/img/portfolio/harris_beam/20161111_104441.jpg",
-  
+  "img/portfolio/jaks_brewery/IMG_7009.jpg",
+  "img/portfolio/longhorn_steak/IMG_6994.jpg",
+  "img/portfolio/longhorn_steak/IMG_6998.jpg",
+  "img/portfolio/longhorn_steak/IMG_7003.jpg",
+  "img/portfolio/longhorn_steak/IMG_7005.jpg",
+  "img/portfolio/mod_pizza/IMG_7268.jpg",
+  "img/portfolio/navy_fcu/IMG_6455.jpg",
+  "img/portfolio/navy_fcu/IMG_6450.jpg",
+  "img/portfolio/oskar_blues/ft_building.jpg",
+  "img/portfolio/oskar_blues/IMG_7286.jpg",
+  "img/portfolio/oskar_blues/IMG_7287.jpg",
+  "img/portfolio/oskar_blues/IMG_20170616_110303.jpg",
+  "img/portfolio/oskar_blues/IMG_20170616_110909.jpg",
+  "img/portfolio/oskar_blues/IMG_20171007_134839.jpg",
+  "img/portfolio/oskar_blues/IMG_20171007_140651.jpg",
+  "img/portfolio/oskar_blues/IMG_20171007_141204.jpg",
+  "img/portfolio/oskar_blues/IMG_20171007_141224.jpg",
+  "img/portfolio/quest_diagnostics/IMG_6395.jpg",
+  "img/portfolio/quest_diagnostics/IMG_6400.jpg",
+  "img/portfolio/ramona_retail/Ramona-Final-2.jpg",
+  "img/portfolio/ramona_retail/Ramona-Final.jpg",
+  "img/portfolio/whbm_cherry_creek/IMG_6403.jpg",
+  "img/portfolio/whbm_cherry_creek/IMG_6404.jpg",
+  "img/portfolio/whbm_cherry_creek/IMG_6405.jpg",
+
+
 
 
 ];
