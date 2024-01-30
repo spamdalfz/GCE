@@ -98,13 +98,11 @@ function CarouselBox() {
       prevStyle: {
         ...slideStyle,
         transformOrigin: " 0 100%",
-        transform: `rotate(${
-          state.previousItem > state.selectedItem ? "-45deg" : "45deg"
-        })`,
+        transform: `rotate(${state.previousItem > state.selectedItem ? "-45deg" : "45deg"
+          })`,
         opacity: "0",
-        filter: `blur( ${
-          state.previousItem === state.selectedItem ? "0px" : "5px"
-        })`,
+        filter: `blur( ${state.previousItem === state.selectedItem ? "0px" : "5px"
+          })`,
       },
     };
   };
@@ -134,16 +132,6 @@ function CarouselBox() {
             )
           );
         }}
-        renderIndicator={(clickHandler, isSelected, index) => {
-          return (
-            <li
-              onClick={clickHandler}
-              className={`ind ${isSelected ? "active" : ""}`}
-              key={index}
-              role="button"
-            />
-          );
-        }}
         statusFormatter={(currentItem, total) => {
           return (
             <p>
@@ -153,7 +141,7 @@ function CarouselBox() {
         }}
         transitionTime={310}
         animationHandler={rotateAnimationHandler}
-        swipeable={false}        
+        swipeable={false}
       >
         {images.map((URL, index) => (
           <div className="slide">
