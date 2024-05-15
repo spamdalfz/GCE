@@ -28,27 +28,6 @@ export const Gallery = (props) => {
               : "Loading..."}
           </div>
         </div>
-        <div className="section-title">
-          <h3>
-            Commercial/Industrial Ground Up Construction
-          </h3>
-        </div>
-        <div className="row">
-          <div className="portfolio-items">
-            {props.data
-              ? props.data.map((d, i) => (
-                <div
-                  key={`${d.title}-${i}`}
-                  className="col-sm-6 col-md-4 col-lg-4"
-                >
-                  <CarouselBox>
-
-                  </CarouselBox>
-                </div>
-              ))
-              : "Loading..."}
-          </div>
-        </div>
       </div>
     </div>
   );
