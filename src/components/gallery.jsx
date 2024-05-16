@@ -10,7 +10,7 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Projects</h2>
           <h3>
-            Commercial/Industrial Tenant Finishes & Remodels
+
           </h3>
         </div>
         <div className="row">
