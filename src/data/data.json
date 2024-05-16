@@ -75,6 +75,11 @@
       "img": "img/team/jack.jpeg",
       "name": "Jack Hollesen",
       "job": "Master Electrician, CEO"
+    },
+    {
+      "img": "img/team/Evan.jpg",
+      "name": "Evan Gallagher ",
+      "job": "Service and Project Manager"
     }
   ],
   "Contact": {
